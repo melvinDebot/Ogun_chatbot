@@ -17,7 +17,7 @@ export default {
   name: 'Home',
   components: {
     Ogun
-  }
+  },
 }
 </script>
 
